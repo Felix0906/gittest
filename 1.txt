@@ -1,3 +1,4 @@
 A123456789
 此次不commit
 此次commit
+Create a new branch is quick!
